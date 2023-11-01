@@ -10,13 +10,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 105vh;
+  min-height: 100vh;
   background: #edf1f4;
 }
 
 .calculator {
   position: relative;
-  width: 345px;
+  width: 340px;
   padding: 20px;
   border-radius: 20px;
   box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.2), -15px -15px 20px #fffb;
